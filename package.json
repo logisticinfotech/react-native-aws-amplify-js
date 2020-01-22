@@ -1,7 +1,6 @@
 {
-	"name": "aws-amplify-monorepo",
-	"private": true,
-	"version": "0.1.30",
+	"name": "@logisticinfotech/react-native-aws-amplify-js",
+	"version": "1.0.1",
 	"description": "",
 	"scripts": {
 		"setup-dev": "yarn && yarn bootstrap && yarn link-all && yarn build",
@@ -34,14 +33,14 @@
 	],
 	"repository": {
 		"type": "git",
-		"url": "https://github.com/aws-amplify/amplify-js.git"
+		"url": "https://github.com/logisticinfotech/react-native-aws-amplify-js.git"
 	},
 	"author": "Amazon Web Services",
-	"license": "Apache-2.0",
+	"license": "MIT",
 	"bugs": {
-		"url": "https://github.com/aws-amplify/amplify-js/issues"
+		"url": "https://github.com/logisticinfotech/react-native-aws-amplify-js/issues"
 	},
-	"homepage": "https://aws-amplify.github.io/",
+	"homepage": "https://github.com/logisticinfotech/react-native-aws-amplify-js#readme",
 	"devDependencies": {
 		"@babel/cli": "^7.0.0",
 		"@babel/core": "^7.0.0",

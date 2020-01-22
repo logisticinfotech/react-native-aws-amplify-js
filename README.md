@@ -1,7 +1,7 @@
 <img src="https://s3.amazonaws.com/aws-mobile-hub-images/aws-amplify-logo.png" alt="AWS Amplify" width="550" >
 
 <a href="https://nodei.co/npm/aws-amplify/">
-  <img src="https://nodei.co/npm/aws-amplify.svg?downloads=true&downloadRank=true&stars=true">
+  <img src="https://nodei.co/npm/@logisticinfotech/react-native-aws-amplify-js.svg?downloads=true&downloadRank=true&stars=true">
 </a>
 <p>
   <a href="https://gitter.im/AWS-Amplify/Lobby?utm_source=share-link&utm_medium=link&utm_campaign=share-link" target="_blank">
@@ -17,7 +17,7 @@
   </a>
 </p>
 
-### AWS Amplify is a JavaScript library for frontend and mobile developers building cloud-enabled applications.
+### AWS Amplify is a JavaScript library for frontend and mobile developers building cloud-enabled applications
 
 AWS Amplify provides a declarative and easy-to-use interface across different categories of cloud operations. AWS Amplify goes well with any JavaScript based frontend workflow, and React Native for mobile developers.
 
@@ -41,7 +41,7 @@ Amplify@1.x.x has structural changes. For details please check [Amplify Modulari
 - [**Cache**](https://aws.github.io/aws-amplify/media/cache_guide): Provides a generic LRU cache for JavaScript developers to store data with priority and expiration settings.
 - [**Predictions**](https://aws-amplify.github.io/docs/js/predictions): Provides a solution for using AI and ML cloud services to enhance your application.
 
-#### Visit our [Web Site](https://aws.github.io/aws-amplify) to learn more about AWS Amplify.
+#### Visit our [Web Site](https://aws.github.io/aws-amplify) to learn more about AWS Amplify
 
 - [Documentation](https://aws.github.io/aws-amplify)
 - [Installation](#installation)
@@ -56,13 +56,13 @@ AWS Amplify is available as `aws-amplify` package on [npm](https://www.npmjs.com
 **Web**
 
 ```bash
-$ npm install aws-amplify --save
+npm install aws-amplify --save
 ```
 
 or you could install the module you want to use individually:
 
 ```bash
-$ npm install @aws-amplify/auth --save
+npm install @aws-amplify/auth --save
 ```
 
 **React**
@@ -70,8 +70,8 @@ $ npm install @aws-amplify/auth --save
 If you are developing a [React](https://github.com/facebook/react/) app, you can install an additional package `aws-amplify-react` containing [Higher Order Components](https://reactjs.org/docs/higher-order-components.html):
 
 ```bash
-$ npm install aws-amplify --save
-$ npm install aws-amplify-react --save
+npm install aws-amplify --save
+npm install aws-amplify-react --save
 ```
 
 **Angular**
@@ -79,8 +79,8 @@ $ npm install aws-amplify-react --save
 If you are developing an [Angular](https://github.com/angular/angular) app, you can install an additional package `aws-amplify-angular`. This package contains an [Angular module](https://angular.io/guide/architecture-modules) with a [provider and components](https://aws.github.io/aws-amplify/media/angular_guide):
 
 ```bash
-$ npm install aws-amplify --save
-$ npm install aws-amplify-angular --save
+npm install aws-amplify --save
+npm install aws-amplify-angular --save
 ```
 
 Visit our [Installation Guide for Web](https://aws.github.io/aws-amplify/media/install_n_config?platform=javascript) to start building your web app.
@@ -90,8 +90,8 @@ Visit our [Installation Guide for Web](https://aws.github.io/aws-amplify/media/i
 If you are developing a [Vue](https://github.com/vuejs/vue) app, you can install an additional package `aws-amplify-vue`. This package contains a [Vue plugin](https://vuejs.org/v2/guide/plugins.html) for the Amplify library along with [Vue components](https://vuejs.org/v2/guide/components.html):
 
 ```bash
-$ npm install aws-amplify --save
-$ npm install aws-amplify-vue --save
+npm install aws-amplify --save
+npm install aws-amplify-vue --save
 ```
 
 Visit our [Installation Guide for Web](https://aws-amplify.github.io/amplify-js/media/vue_guide#vue) to start building your Vue app.
@@ -101,13 +101,13 @@ Visit our [Installation Guide for Web](https://aws-amplify.github.io/amplify-js/
 For React Native development, install `aws-amplify`:
 
 ```bash
-$ npm install aws-amplify --save
+npm install aws-amplify --save
 ```
 
 If you are developing a [React Native](https://github.com/facebook/react-native) app, you can install an additional package `aws-amplify-react-native` containing [Higher Order Components](https://reactjs.org/docs/higher-order-components.html):
 
 ```bash
-$ npm install aws-amplify-react-native --save
+npm install aws-amplify-react-native --save
 ```
 
 Visit our [Installation Guide for React Native](https://aws.github.io/aws-amplify/media/install_n_config?platform=react-native) to start building your web app.
